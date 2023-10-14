@@ -1,4 +1,4 @@
-¡Hola! Gracias por interesarte en el taller. Zotero es un gestor bibliográfico, un programa para la compu que nos ayuda a mantener una lista más o menos ordenada de los materiales que usamos para estudiar, para investigar o para armar nuestras clases. Tiene un montón de formas de usar, el objetivo del taller es mostrar algunas de la funciones que tiene y ver de qué manera te puede servir para tu trabajo.
+¡Hola! Gracias por interesarte en el taller. Zotero es un gestor bibliográfico, un programa para la compu que nos ayuda a mantener una lista más o menos ordenada de los materiales que usamos para estudiar, para investigar o para armar nuestras clases. Tiene un montón de formas de usar, el objetivo del taller es mostrar algunas de la funciones que tiene y ver de qué manera te puede servir.
 
 ## ¿Como instalar Zotero? 
 
